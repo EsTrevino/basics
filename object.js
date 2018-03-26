@@ -57,6 +57,8 @@ console.log(myWifesCar.getFullDescription());
 // }
 
 // ES6 Enhanced Object Literal Syntax
+//you dont have to type key in when parameter is the same
+//look above for example
 function createVehicle(make, model, year) {
   return {
     make,
